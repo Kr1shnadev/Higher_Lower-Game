@@ -34,6 +34,20 @@ instagram_followers_data = [
 ]
 ```
 
+## Installation & Running the Game
+
+### Prerequisites
+
+- Python 3.x
+
+### Steps
+
+1. Clone or download this repository.
+2. Install dependencies if required (`pip install -r requirements.txt`).
+3. Run the game script:
+   ```bash
+   python higherlower.py
+   ```
 
 ## Future Enhancements
 
